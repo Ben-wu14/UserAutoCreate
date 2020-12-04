@@ -1,4 +1,5 @@
 #!/bin/bash
+# Create by Ben wu // Email:ben_wu@qq.com
 pw=$1
 us=$1
 group=$2
